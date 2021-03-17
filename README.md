@@ -31,6 +31,8 @@
     <img
         src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
+## Info Hafizh
+
 - 👋 Halo Saya Mr Hafizh Dev
 - 👀 Lumayan Suka Game
 - 🌱 Cinta Tanaman And Lingkungan
@@ -44,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
- ## MEDSOS HAFIZHDEV
+ ## MEDSOS HAFIZH
 - [`INSTAGRAM`](https://instagram.com/hafizh.021y/)
 - [`WHATSAPP`](https://wa.me/6285741056111)
 - [`MY GROUP`](https://chat.whatsapp.com/BlhY5aEfrlw3hMf7DVot59)
