@@ -2,15 +2,15 @@
 <img src="https://avatars.githubusercontent.com/MrHafizhDev" width="225" height="225"/>
 </p>
 <p align="center">
-<a href="#"><img title="spamwabyhafizh" src="https://img.shields.io/badge/spamwabyhafizh-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="spamwabyhafizhganz" src="https://img.shields.io/badge/spamwabyhafizh-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/spamwabyhafizh"><img title="Author" src="https://img.shields.io/badge/AUTHOR-GITHUB-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/spamwabyhafizhganz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-GITHUB-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/MrHafizhDev/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/MrHafizhDev/spamwabyhafizh/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MrHafizhDev/spamwabyhafizh?color=red&style=flat-square"></a>
-<a href="https://github.com/MrHafizhDev/spamwabyhafizh/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MrHafizhDev/spamwabyhafizh?color=red&style=flat-square"></a>
-<a href="https://github.com/MrHafizhDev/spamwabyhafizh/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MrHafizhDev/spamwabyhafizh?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/MrHafizhDev/spamwabyhafizhganz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MrHafizhDev/spamwabyhafizh?color=red&style=flat-square"></a>
+<a href="https://github.com/MrHafizhDev/spamwabyhafizhganz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MrHafizhDev/spamwabyhafizh?color=red&style=flat-square"></a>
+<a href="https://github.com/MrHafizhDev/spamwabyhafizhganz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MrHafizhDev/spamwabyhafizh?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUrbaee%2Fwhatsapp-bot2&count_bg=%232396FF&title_bg=%23555555&icon=meteor.svg&icon_color=%23F5F9FF&title=visitor&edge_flat=false"/></a>
 </p>
 
@@ -18,8 +18,8 @@
   
   
 <p align="left">
-<a href="https://github.com/MrHafizhDev/spamwabyhafizh">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeusFtrOfc&repo=Zeus_whatsapp-bot&theme=dark" />
+<a href="https://github.com/MrHafizhDev/spamwabyhafizhganz">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHafizhDev&repo=spamwabyhafizhganz&theme=dark" />
   </p>
 
   
